@@ -1,0 +1,20 @@
+.container {
+    height: 50dvh;
+    background: black ;
+    width:90%;
+    position: relative;
+    
+    gap: 5rem;
+    padding-top:5rem;
+}
+
+.box {
+    width: 8rem;
+    height:100rem;
+    position: relative;
+    border: 1px solid rgb(114, 61, 0);
+    background: rgb(199, 118, 13);
+    border-bottom-left-radius: 18px;
+     border-bottom-right-radius: 18px;
+}
+
